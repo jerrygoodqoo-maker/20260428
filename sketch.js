@@ -66,7 +66,7 @@ function draw() {
   noStroke();
   textSize(32);
   textAlign(CENTER, TOP);
-  text("414730399朱俊圻 文字", width / 2, 20);
+  text("414730399朱俊圻", width / 2, 20);
 
   // Calculate video dimensions (60% of canvas)
   let vW = width * 0.6;
